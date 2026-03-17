@@ -1,0 +1,5 @@
+{
+  "name": "Contabilidade Voz",
+  "description": "Um assistente de voz inteligente para estudos de contabilidade usando a API Live do Gemini.",
+  "requestFramePermissions": ["microphone"]
+}
